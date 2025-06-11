@@ -40,15 +40,6 @@ E_Commerce_Project/
 2. Open `index.html` in any web browser.
 3. Interact with the UI elements (navigation, shop buttons, contact form).
 
-## 📌 Demo
-
-> Add screenshots or a live link here (e.g., GitHub Pages or Netlify)
-
-## 📬 Contact
-
-For any feedback or queries, feel free to connect at:
-**📧** your.email@example.com
-
 ---
 
 > 💻 Made with passion for modern web design and frontend development.
